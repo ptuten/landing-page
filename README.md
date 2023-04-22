@@ -1,2 +1,2 @@
 # landing-page
-Landing page repo for CSS site from scratch.
+Landing page repo for creating site from scratch using HTML and CSS.
